@@ -9,3 +9,5 @@ public class OddEvenCode {
 		 myDisplaysOddEven.DisplaysOddEven();
 	}
 }
+
+// Please do all Input/OUtput in the main method, Jesus.
